@@ -1,8 +1,6 @@
 //
 // Water Alarm
-// By Nic Jansma
-// http://nicj.net
-// http://github.com/nicjansma/spark-water-alarm
+// By Satyen
 //
 //
 // Constants
